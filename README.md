@@ -1,16 +1,13 @@
 # user_data_firestore
 
-A new Flutter project.
+Flutter project task allows adding, listing, and updating user data in real-time from a Firestore database.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Users**:
 
-A few resources to get you started if this is your first Flutter project:
+- Users can enter their name, age, and favorite hobby, which are then stored in Fires tore.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **View Users**:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Users are listed in real-time from fire store, showing updates to the data as they occur in the Fire store database.
